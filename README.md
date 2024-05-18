@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Languages: **Python | JavaScript | HTML | CSS**
+  🦄 Languages: ** Python | JavaScript | HTML | CSS **
 </p>
 
 <p align="left">
-  💼 Tools: **VS Code | Obsidian**
+  💼 Tools: ** VS Code | Obsidian **
 </p>
 
 <p align="left">
