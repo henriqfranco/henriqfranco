@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Languages: ** Python | JavaScript | HTML | CSS **
+  🦄 Languages: Python | JavaScript | HTML | CSS
 </p>
 
 <p align="left">
-  💼 Tools: ** VS Code | Obsidian **
+  💼 Tools: <strong>VS Code | Obsidian</strong>
 </p>
 
 <p align="left">
@@ -18,25 +18,14 @@
 </p>
 
 <p align="left">
-  <a href="henriqfvr@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="https://github.com/henriqfranco" title="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/henriques-franco/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.instagram.com/henrifrnc/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/25110410/henrique-franco?tab=profile" title="StackOverflow">
+  <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
 </p>
 
-<!--
-**henriqfranco/henriqfranco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![henriqfranco](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqfranco&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
