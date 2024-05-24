@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>Python | JavaScript | HTML | CSS | SQL</strong>
+  🦄 Languages: <strong>Python | SQL | JavaScript | HTML | CSS</strong>
 </p>
 
 <p align="left">
