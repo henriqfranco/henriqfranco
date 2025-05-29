@@ -48,8 +48,6 @@ I’m fluent in English, Brazilian Portuguese, and JavaScript bugs
 
 ---
 
-### GitHub Stats:
-![Streak](https://nirzak-streak-stats.vercel.app/?user=henriqfranco&theme=dark&hide_border=false)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=henriqfranco&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
