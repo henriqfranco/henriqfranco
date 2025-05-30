@@ -37,7 +37,7 @@ SGIMP – scientific initiation project (think frontend, requests, and optimizat
 
 ---
 
-### 💬 Let's talk:
+### Let's talk:
 Ask me about Split Keyboards, Rubik's Cubes, or backend stuff  
 I’m fluent in English, Brazilian Portuguese, and JavaScript bugs
 
