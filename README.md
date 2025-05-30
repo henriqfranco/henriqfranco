@@ -2,6 +2,8 @@
 
 I'm a backend-leaning dev who actually cares about reading documentation.
 
+![image](https://github.com/user-attachments/assets/82a19dfd-0360-4594-b08c-4fa426576783)
+
 Currently building:
 
 [Ekhytera](https://github.com/Ekhytera) – a smart computer assembly assistant for college  
