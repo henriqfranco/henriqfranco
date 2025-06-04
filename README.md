@@ -15,7 +15,7 @@ SGIMP – scientific initiation project (think frontend, requests, and optimizat
 - PostgreSQL & MySQL for storage
 
 #### Frontend
-- React + Tailwind + ShadCN – clean, fast, minimal  
+- React + Tailwind – clean, fast, minimal  
 - Also cool with TypeScript, React Router, and the classics (HTML, CSS, JavaScript)
 
 #### Tools I use daily
