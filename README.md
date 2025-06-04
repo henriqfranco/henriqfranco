@@ -21,13 +21,13 @@ SGIMP – scientific initiation project (think frontend, requests, and optimizat
 #### Tools I use daily
 - Vite, Git & GitHub
 - Postman for API testing
-- Figma when I pretend to be a designer
 - Nodemon so I don’t have to press restart
 
 #### Other things in my toolbox
 - Python for problem solving and LeetCode marathons  
 - Arduino, because I started with wires before APIs  
 - Photoshop for polishing things up
+- Figma when I pretend to be a designer
 
 ---
 
