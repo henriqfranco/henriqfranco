@@ -44,7 +44,7 @@ I’m fluent in English, Brazilian Portuguese, and JavaScript bugs
 ---
 
 ### Find me around the web:
-[Instagram](https://instagram.com/henrifrnc) | [LinkedIn](https://linkedin.com/in/henriques-franco) | [GitHub](https://github.com/henriqfranco)
+| [LinkedIn](https://linkedin.com/in/henriques-franco) |
 
 ---
 
