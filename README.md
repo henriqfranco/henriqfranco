@@ -44,7 +44,7 @@ I’m fluent in English, Brazilian Portuguese, and JavaScript bugs
 ---
 
 ### Find me around the web:
-| [LinkedIn](https://linkedin.com/in/henriques-franco) |
+[LinkedIn](https://linkedin.com/in/henriques-franco) | [LeetCode](https://leetcode.com/u/henriqfvr/)
 
 ---
 
